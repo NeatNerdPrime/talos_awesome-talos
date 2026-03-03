@@ -28,6 +28,7 @@ Collection of awesome talos resource from the community
 
 - [chaosd](https://github.com/qjoly/talos.chaosd.extension/) Extension for [Chaos Mesh](https://chaos-mesh.org/)
 - [FRR](https://github.com/vitaly-zverev/frr-talos-extension) Free Range Routing for Talos including BGP
+- [talosctl-oidc](https://github.com/qjoly/talosctl-oidc) Extension that provides short-lived client certificates signed by the Talos CA based on OIDC provider.
 
 </details>
 
