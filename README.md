@@ -11,6 +11,7 @@ Collection of awesome talos resource from the community
 - [Management](#management)
 - [Talos-Based Projects](#talos-based-projects)
 - [Tools](#tools)
+- [Omni Infrastructure Providers](#omni-infra-providers)
 
 <details open><summary><h2>Examples</h2></summary>
 
@@ -90,5 +91,25 @@ Collection of awesome talos resource from the community
 - [talos-pilot](https://github.com/handfish/talos-pilot) A TUI for real-time node monitoring, log streaming, etcd health, diagnostics, and node actions
 - [talswitcher](https://github.com/mirceanton/talswitcher) A simple tool to help manage multiple talosconfig files
 - [TOPF](https://github.com/postfinance/topf) Manages Talos cluster lifecycle with layered patches and SOPS support
+
+</details>
+
+<details open><summary><h2>Omni Infra Providers</h2></summary>
+
+- [Bare metal](https://github.com/siderolabs/omni-infra-provider-bare-metal) (Official)
+- [Kubevirt](https://github.com/siderolabs/omni-infra-provider-kubevirt) (Official)
+- [Libvirt](https://github.com/siderolabs/omni-infra-provider-libvirt) (Official)
+- [vSphere](https://github.com/siderolabs/omni-infra-provider-vsphere) (Official)
+- [Proxmox](https://github.com/siderolabs/omni-infra-provider-proxmox) (Official)
+- [Oxide](https://github.com/oxidecomputer/omni-infra-provider-oxide) (Supported)
+- [AWS](https://github.com/rothgar/omni-infra-provider-aws) (Community)
+- [OpenStack](https://github.com/rothgar/omni-infra-provider-openstack) (Community)
+- [Openmetal](https://github.com/rothgar/omni-infra-provider-openmetal) (Community)
+- [OVHcloud](https://github.com/ktijssen/omni-ovhcloud-infra-provider) (Community)
+- [Nutanix](https://github.com/ktijssen/omni-nutanix-infra-provider) (Community)
+- [Digital Ocean](https://github.com/ktijssen/omni-digitalocean-infra-provider) (Community)
+- [TrueNAS](https://github.com/bearbinary/omni-infra-provider-truenas) (Community)
+- [Scaleway](https://github.com/Coler-e/omni-infra-provider-scaleway) (Community)
+- [Hetzner](https://github.com/theGunner295/omni-infra-provider-hetzner) Community)
 
 </details>
